@@ -1,4 +1,4 @@
-# -PROJETO-MESAFARTAI
+# PROJETO-MESAFARTAI
 Projeto AC3 - AC4
 
 Giovani Ribeiro Lima RA:94107
